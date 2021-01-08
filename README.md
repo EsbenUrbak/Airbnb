@@ -1,6 +1,7 @@
 # Airbnb
 
 Analysis of Airbnb London data. Please see the medium article for a quick write up of results
+I have done the analysis using colab. So the easiest (I find) is simply to open it in colab using the "link" at the top of the file.
 
 
 In this colab workbook I take a look at the London Airbnb data sets - mainly the calender and Listings data sets.
