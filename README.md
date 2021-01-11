@@ -1,6 +1,8 @@
 # Airbnb
 
-Analysis of Airbnb London data. Please see the medium article for a quick write up of the results
+Analysis of Airbnb London data. Please see the medium article for a quick write up of the results:
+https://esbenurbak.medium.com/how-to-maximize-your-airbnb-rental-income-in-london-2aa0999b4231
+
 I have done the analysis using colab. So the easiest (I find) is simply to open it in colab using the "link" at the top of the file.
 
 
