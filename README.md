@@ -1,6 +1,6 @@
 # London Airbnb analysis
 Medium article: https://esbenurbak.medium.com/how-to-maximize-your-airbnb-rental-income-in-london-2aa0999b4231
-
+Github repository: https://github.com/EsbenUrbak/Airbnb
 
 Project Motivation:
 
@@ -37,4 +37,3 @@ Please find a summary for a non-technical audience in a blog post here: https://
 Acknowledgements:
 
 The data for the proejct is available on http://insideairbnb.com/ 
-
